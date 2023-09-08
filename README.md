@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-rizqi" alt="m-rizqi" /></a> </p>
 
-- 🌱 I’m currently learning **Android, Kotlin,**
+- 🌱 I’m currently learning **Android, Flutter**
 
 - 📫 How to reach me **mrizqi070502@gmail.com**
 
